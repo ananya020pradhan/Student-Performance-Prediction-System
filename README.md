@@ -87,7 +87,7 @@ Student-Performance-Prediction-System/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/student-performance-prediction.git
+git clone https://github.com/ananya020pradhan/student-performance-prediction.git
 cd student-performance-prediction
 ```
 
@@ -147,19 +147,6 @@ Upload a CSV file with columns:
 gender,school_type,prior_gpa,attendance_pct,quiz_avg,assign_avg,midterm,
 study_hours_wk,on_time_submit_pct,lms_logins_wk,forum_posts,parent_edu,commute_min
 ```
-
----
-
-## 📸 Screenshots
-
-👉 Add these images in `images/` folder
-
-* Dashboard UI
-* Single prediction result
-* CSV batch prediction
-* Confusion matrix
-* Feature importance graph
-* Data visualization dashboard
 
 ---
 
